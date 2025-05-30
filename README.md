@@ -1,4 +1,4 @@
-#Tr
+# Tr
 Bu Python ile yazılmış grafik arayüzlü bir hesap makinesidir.
 
 calculator_stbl.py 
@@ -10,7 +10,7 @@ liblerini kullanır.
 Python ortamınızda(environment) bu liblerin olduğundan emin olun.
 
 
-#En
+# En
 This is a calculator with UI using Python.
 
 calculator_stbl.py uses :
